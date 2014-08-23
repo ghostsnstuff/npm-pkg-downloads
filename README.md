@@ -13,6 +13,12 @@ npmDownloads(function(downloads) {
 });
 ```
 
+Output
+
+```javascript
+{ total: 90525, day: 16299502, week: 99896225, month: 413985488 }
+```
+
 ### installation
 ```
 npm install npm-pkg-downloads

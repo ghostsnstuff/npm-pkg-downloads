@@ -1,6 +1,6 @@
 {
-  "name": "npm-pkg-data",
-  "version": "0.0.1",
+  "name": "npm-pkg-downloads",
+  "version": "0.0.2",
   "description": "a quick little npm pkg hack ",
   "main": "index.js",
   "scripts": {
@@ -9,11 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ghostsnstuff/npm-pkg-data.git"
+    "url": "https://github.com/ghostsnstuff/npm-pkg-downloads.git"
   },
   "keywords": [
     "npm",
     "package",
+    "downloads",
     "stats",
     "numbers",
     "data"
@@ -21,9 +22,9 @@
   "author": "ghostsnstuff <@gns>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ghostsnstuff/npm-pkg-data/issues"
+    "url": "https://github.com/ghostsnstuff/npm-pkg-downloads/issues"
   },
-  "homepage": "https://github.com/ghostsnstuff/npm-pkg-data",
+  "homepage": "https://github.com/ghostsnstuff/npm-pkg-downloads",
   "dependencies": {
     "cheerio": "^0.17.0",
     "request": "^2.40.0",
