@@ -1,0 +1,32 @@
+{
+  "name": "npm-pkg-data",
+  "version": "0.0.1",
+  "description": "a quick little npm pkg hack ",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/*.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ghostsnstuff/npm-pkg-data.git"
+  },
+  "keywords": [
+    "npm",
+    "package",
+    "stats",
+    "numbers",
+    "data"
+  ],
+  "author": "ghostsnstuff <@gns>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ghostsnstuff/npm-pkg-data/issues"
+  },
+  "homepage": "https://github.com/ghostsnstuff/npm-pkg-data",
+  "dependencies": {
+    "cheerio": "^0.17.0",
+    "express": "^4.8.5",
+    "request": "^2.40.0"
+  }
+}
